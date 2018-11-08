@@ -1,11 +1,12 @@
 body {
 	padding: 20px;
+	background-color: #f7f7f7;
 }
 
 .practice {
   width: 500px;
-  border-radius: 2px;
-  background-color: #f7f7f7;
+  border-radius: 4px;
+  background-color: #fff;
   padding: 20px;
   margin: 0 auto;
   text-align: center;
